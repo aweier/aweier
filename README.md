@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aweier
-- 👀 I’m interested in ...Environmental Data, Geoscience, GIS, geochemisty, bird watching.
+- 👀 I’m interested in ...Environmental Data, Geoscience, GIS, Geochemisty, Bird Watching.
 - 🌱 I’m currently learning ...python, gis, new to programing. 
-- 💞️ I’m looking to collaborate on ...environmental monitoring applications!
+- 💞️ I’m looking to collaborate on ...environmental monitoring applications! HTX based, Detroit sometimes!
 - 📫 How to reach me ...DM ME!
 
 <!---
