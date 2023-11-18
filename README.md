@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aweier
-- 👀 I’m interested in ...Environmental Data, Data Analytics, Road Cycling, Bird Watching.
-- 🌱 I’m currently learning ...python, SQL, Tableau. 
+- 👀 I’m interested in ...Environmental Data, Data Analytics, Road Cycling, and Bird Watching.
+- 🌱 I’m currently learning ...python, SQL, and Tableau. 
 - 💞️ I’m looking to collaborate on ...environmental monitoring applications! HTX based, Detroit sometimes!
 - 📫 How to reach me ...DM ME!
 
