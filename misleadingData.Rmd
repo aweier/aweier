@@ -1,0 +1,93 @@
+---
+title: "Misleading Data - DatasuRus Dozen"
+output: github_document
+---
+![Anscombe's Quartet Image From Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Anscombe%27s_quartet_3.svg/1280px-Anscombe%27s_quartet_3.svg.png)
+By Anscombe.svg: Schutz(label using subscripts): Avenue - Anscombe.svg, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=9838454
+
+```{r setup, include=FALSE, echo=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(datasauRus)
+library(tidyverse)
+```
+## What is Anscombe's quartet?
+Anscombe's quartet is a classic example in statistics that shows different datasets with nearly identical statistical properties (like mean, variance, and regression line) but different distributions and patterns. 
+
+See Anscombe's Quartet dataset anscombe. It is important to understand for EDA, especially applicable for ML.
+
+##Getting Data and Comparing Means and Variances of 'x_shape' and 'dino' Data
+Let's compare the means and variances of the `x_shape` and `dino` datasets to understand their similarities and differences in terms of basic statistical properties.
+
+```{r, echo = FALSE}
+#Select x_shape dataset
+x_dino <- subset(datasaurus_dozen, dataset == "x_shape")
+#Select dino dataset
+dino_data <- subset(datasaurus_dozen, dataset == "dino")
+# Calculate means and variances for x_shape dataset
+mean_x_shape_x <- mean(x_dino$x)
+mean_x_shape_y <- mean(x_dino$y)
+var_x_shape_x <- var(x_dino$x)
+var_x_shape_y <- var(x_dino$y)
+
+# Calculate means and variances for dino dataset
+mean_dino_x <- mean(dino_data$x)
+mean_dino_y <- mean(dino_data$y)
+var_dino_x <- var(dino_data$x)
+var_dino_y <- var(dino_data$y)
+
+# Create a summary data frame for comparison
+comparison <- data.frame(
+  Dataset = c("x_shape", "dino"),
+  Mean_X = c(mean_x_shape_x, mean_dino_x),
+  Mean_Y = c(mean_x_shape_y, mean_dino_y),
+  Variance_X = c(var_x_shape_x, var_dino_x),
+  Variance_Y = c(var_x_shape_y, var_dino_y)
+)
+
+# Display the comparison table
+print(comparison)
+
+```
+
+##Plot of x_Shape with summary statistics of regression model
+```{r, echo = FALSE}
+
+#Create a Linear Regression Model
+lm_model_x <- lm(y~x, data= x_dino)
+
+#Summary of linear Regression model
+summary(lm_model_x)
+
+# Plot for x_shape dataset with pink regression line
+plot(x_dino$x, x_dino$y, main = "Datasaurus X_Shape Dataset with Regression Line", 
+     xlab = "x", ylab = "y", pch = 19, cex = 0.6)
+abline(lm_model_x, col = "pink", lwd = 3)
+```
+
+
+##Plot Dino_data with summary statistics of regression model
+```{r, echo=FALSE}
+# Create a Linear Regression Model for dino
+lm_model_dino <- lm(y ~ x, data = dino_data)
+
+# Summary of the linear regression model for dino
+summary(lm_model_dino)
+
+# Plot for dino dataset with both regression lines
+plot(dino_data$x, dino_data$y, main = "Datasaurus Dino Dataset with Regression Line", 
+     xlab = "x", ylab = "y", pch = 19, cex = 0.6)
+abline(lm_model_dino, col = "blue", lwd = 2)   # Blue line for dino data regression
+abline(lm_model_x, col = "pink", lwd = 3)      # Pink line for x_shape data regression
+```
+
+Summary of Comparison
+
+1. **Visual Differences**: The `x_shape` dataset and the `dino` dataset have distinct shapes when plotted. The `x_shape` dataset forms a specific pattern resembling the letter "X", while the `dino` dataset forms the shape of a dinosaur. These visual differences highlight the importance of visually inspecting data before applying statistical models.
+
+2. **Different Regression Lines**: Despite potentially having similar statistical summaries (e.g., means, variances), the regression lines for `x_shape` and `dino` differ significantly. The `x_shape` regression line reflects the intersecting pattern of the data, while the `dino` regression line reflects the general trend of the data points shaped like a dinosaur. The pink regression line from the `x_shape` dataset plotted alongside the blue regression line from the `dino` dataset emphasizes these differences.
+
+3. **Importance of Context**: This comparison underscores that statistical models, such as linear regression, are context-sensitive. The linear regression lines show different trends depending on the underlying data patterns, which affects how the model would be interpreted and used in analysis.
+
+4. **Illustrating a Broader Point**: By comparing these two plots, you demonstrate a broader point about data analysis: datasets with similar statistical properties can have very different underlying structures and relationships. This is why it's crucial to both visualize and statistically analyze data before drawing conclusions.
+
+Overall, the comparison helps to visually communicate that understanding the data’s distribution and shape is as important as knowing its summary statistics, especially when applying linear regression models, conducting EDA, or applying Machine Learning applications.
