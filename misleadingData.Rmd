@@ -1,5 +1,5 @@
 ---
-title: "Misleading Data - DatasuRus Dozen"
+title: "Misleading Data - DatasuaRus Dozen"
 output: github_document
 ---
 ![Anscombe's Quartet Image From Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Anscombe%27s_quartet_3.svg/1280px-Anscombe%27s_quartet_3.svg.png)
