@@ -1,3 +1,4 @@
+#Calcualate water column depth in Environmental Monitoring Well (According to Consultant's SOP)
 def calculate_water_column(well_depth, dtw_level):
     return well_depth - dtw_level
 
