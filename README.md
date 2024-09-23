@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aweier">
+![Visits](https://img.shields.io/badge/Visits-11621-blue)
 
 - 👋 Hi, I’m @aweier
 - 👀 I’m interested in ... Data Analytics, Road Cycling, Bird Watching.
