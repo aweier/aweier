@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aweier">
+
 - 👋 Hi, I’m @aweier
 - 👀 I’m interested in ... Data Analytics, Road Cycling, Bird Watching.
 - 🌱 I’m currently learning ...Data Mining, Regression, and Data Visulization(s). 
