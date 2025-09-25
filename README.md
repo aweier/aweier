@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m @aweier
 - 👀 I’m interested in ... Data Analytics, Statistics and Road Cycling.
-- 🌱 I’m currently learning ...Data Mining, Statistical Regression(s), Data Visualization.
+- 🌱 I’m currently learning ...ANN, Time Series Analysis, refining my Python Skills.
 ### Projects 📁
 - I've added a few projects in this repo (aweier), more coming soon! 🏗️
 - 📫 How to reach me ...DM ME!!
