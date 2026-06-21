@@ -5,8 +5,8 @@
 ### 🚴‍♂️ About Me :
 
 - 👋 Hi, I’m @aweier
-- 👀 I’m interested in ... Data Analytics, Statistics and Road Cycling.
-- 🌱 I’m currently learning ...ANN, Time Series Analysis, refining my Python Skills.
+- 👀 I’m interested in ... Data Analytics, AI Agents and Road Cycling.
+- 🌱 I’m currently learning ... Upsteam oil and gas analytics, broading my commodity markets knowledge and developing better AI focused coding workflows.
 ### Projects 📁
 - I've added a few projects in this repo (aweier), more coming soon! 🏗️
 - 📫 How to reach me ...DM ME!!
