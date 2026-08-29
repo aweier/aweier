@@ -2,7 +2,7 @@
 
 I’m an **Upstream Oil & Gas Data Analyst** with a background in environmental science and a master’s degree in data analytics. I use data engineering, analytics, and machine learning to investigate upstream datasets, improve reporting workflows, and support technical and commercial decision-making.
 
-Outside of work, you’ll usually find me road cycling, training, or working on one of my home-server and data projects.
+Outside of work, you’ll usually find me road cycling, lifting, or working on DIY projects .
 
 ---
 
@@ -21,19 +21,10 @@ Graduate capstone using neural networks to predict entrained liquid droplet frac
 Topics: multiphase flow, PyTorch, model evaluation, engineering data.  
 Repository and technical summary coming soon.
 
-### Environmental Document Analyzer
-Experimental document-processing workflow to extract structured, source-backed information from environmental reports using LLMs.  
-Topics: structured outputs, document extraction, provenance, local & hosted LLMs.  
-Public demo coming soon.
-
 ### Commodity Markets Learning Tools
 Interactive tools for learning commodity markets: automated quizzes and a narrative learning game around natural-gas trading, hedging, accounting, and risk controls.  
 Topics: FastAPI, Streamlit, SQLite, retrieval-augmented generation.  
 Selected components and docs coming soon.
-
-### Personal Analytics Infrastructure
-Self-hosted environment for data applications, local LLMs, media services, automated reporting, and secure access.  
-Topics: Linux, Docker, PostgreSQL, FastAPI, Ollama, Tailscale.
 
 ---
 
