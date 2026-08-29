@@ -1,34 +1,84 @@
-<div id="header" align="left">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzY5eGx5ejltcWdncW9zdjQ0cW51eXUyNnUzdjU4NDFqZG1lMGdueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="150" height="150"/>
-</div>
+# Hi, I'm Alek 👋
 
-### 🚴‍♂️ About Me :
+I’m an **Upstream Oil & Gas Data Analyst** with a background in environmental science and a master’s degree in data analytics. I use data engineering, analytics, and machine learning to investigate upstream datasets, improve reporting workflows, and support technical and commercial decision-making.
 
-- 👋 Hi, I’m @aweier
-- 👀 I’m interested in ... Data Analytics, AI Agents and Road Cycling.
-- 🌱 I’m currently learning ... Upsteam oil and gas analytics, broading my commodity markets knowledge and developing better AI focused coding workflows.
-### Projects 📁
-- I've added a few projects in this repo (aweier), more coming soon! 🏗️
-- 📫 How to reach me ...DM ME!!
+Outside of work, you’ll usually find me road cycling, training, or working on one of my home-server and data projects.
 
+---
 
-### :hammer_and_wrench: Languages and Tools :
-![Static Badge](https://img.shields.io/badge/Python-white?style=flat-square&logo=python&logoColor=%233776AB&color=white)![Static Badge](https://img.shields.io/badge/Pandas-white?style=flat-square&logo=pandas&logoColor=%23150458)![Static Badge](https://img.shields.io/badge/NumPy-white?style=flat-square&logo=numpy&logoColor=%233775A9)
-![Static Badge](https://img.shields.io/badge/GeoPandas-white?style=flat-square&logo=geopandas&logoColor=%23139C5A)
-![Static Badge](https://img.shields.io/badge/Scipy-white?style=flat-square&logo=scipy&logoColor=%238CAAE)![Static Badge](https://img.shields.io/badge/PyTorch-white?style=flat-square&logo=pytorch&logoColor=%23EE4C2C&color=white)![Static Badge](https://img.shields.io/badge/scikit-learn?logo=scikitlearn&labelColor=white&color=%23F7931E)
+## 🔭 Current Focus
+- Upstream oil & gas analytics (wells, production, completions, economics)
+- Data quality, reconciliation, and workflow automation
+- Commodity & energy markets and applied machine learning
+- AI-assisted software development and reliable developer workflows
 
-![Static Badge](https://img.shields.io/badge/R-white?style=flat-square&logo=r&logoColor=%23276DC3)![Static Badge](https://img.shields.io/badge/Tidyverse-white?style=flat-square&logo=tidyverse&logoColor=%231A162D)
-![Static Badge](https://img.shields.io/badge/PostgreSQL-white?style=flat-square&logo=postgresql&logoColor=%234169E1)![Static Badge](https://img.shields.io/badge/SQLite-white?style=flat-square&logo=sqlite&logoColor=%23003B57)![Static Badge](https://img.shields.io/badge/Tableau-white?style=flat-square&logo=tableau&logoColor=%23E97627)![Static Badge](https://img.shields.io/badge/Jupyter-white?style=flat-square&logo=jupyter&logoColor=%23F37626)![Static Badge](https://img.shields.io/badge/Git-white?style=flat-square&logo=git&logoColor=%23F05032)
+---
 
-![Static Badge](https://img.shields.io/badge/Current%20OS-white?style=flat-square&logo=linuxmint)
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aweier)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aweier)](https://github.com/anuraghazra/github-readme-stats)
+## ⭐ Featured Projects
 
- <div id="header" align="left">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTgyaWdmMzV5MDBleTZ6bWtwaTl3cWZlcGdxZHp4eDQ1a2gyZHJmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZfK4cXKJTTay1Ava29/giphy.gif" width="300" height="300"/>
-</div> 
-<!---
-aweier/aweier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Entrained Droplet Fraction Prediction
+Graduate capstone using neural networks to predict entrained liquid droplet fraction in gas–liquid flow.  
+Topics: multiphase flow, PyTorch, model evaluation, engineering data.  
+Repository and technical summary coming soon.
+
+### Environmental Document Analyzer
+Experimental document-processing workflow to extract structured, source-backed information from environmental reports using LLMs.  
+Topics: structured outputs, document extraction, provenance, local & hosted LLMs.  
+Public demo coming soon.
+
+### Commodity Markets Learning Tools
+Interactive tools for learning commodity markets: automated quizzes and a narrative learning game around natural-gas trading, hedging, accounting, and risk controls.  
+Topics: FastAPI, Streamlit, SQLite, retrieval-augmented generation.  
+Selected components and docs coming soon.
+
+### Personal Analytics Infrastructure
+Self-hosted environment for data applications, local LLMs, media services, automated reporting, and secure access.  
+Topics: Linux, Docker, PostgreSQL, FastAPI, Ollama, Tailscale.
+
+---
+
+## 🛠 Languages & Tools
+
+### Analytics & ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=geopandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+### Data & Visualization
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+### Dev & Infrastructure
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+---
+
+## 🚧 Currently Developing
+- Broader upstream oil & gas domain expertise
+- Commodity-market and risk-management knowledge
+- More reliable AI-assisted development workflows
+- Production-ready data applications and automation tools
+
+---
+
+## 📈 GitHub Activity
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aweier&layout=compact&hide_border=true)
+
+---
+
+## 📬 Connect
+The best way to reach me is through [LinkedIn](YOUR-LINKEDIN-URL).  
+You can also DM me on GitHub.
+
+<!--
+Note: Replace placeholders (project links, LinkedIn URL) and add repository links for each featured project when available.
+-->
