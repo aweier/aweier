@@ -2,7 +2,7 @@
 
 I’m an **Upstream Oil & Gas Data Analyst** with a background in environmental science and a master’s degree in data analytics. I use data engineering, analytics, and machine learning to investigate upstream datasets, improve reporting workflows, and support technical and commercial decision-making.
 
-Outside of work, you’ll usually find me road cycling, lifting, or working on DIY projects .
+Outside of work, you’ll usually find me road cycling, lifting, or working on DIY projects.
 
 ---
 
@@ -67,7 +67,7 @@ Selected components and docs coming soon.
 ---
 
 ## 📬 Connect
-The best way to reach me is through [LinkedIn](YOUR-LINKEDIN-URL).  
+The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/acwhtx).  
 You can also DM me on GitHub.
 
 <!--
