@@ -37,7 +37,6 @@ Notebooks from my M.S. in Data Analytics are in [`Grad School python scripts`](<
 - [Two-phase flow pattern classification](<Grad School python scripts/ShohamKNNFinal.ipynb>) – KNN and Gaussian Naive Bayes
 - [EDA of Acute Kidney Injury (AKI) stage data](<Grad School python scripts/edaAKIpyg_2.ipynb>)
 - [Groundwater chemical concentration trends](<Grad School python scripts/Pymann.ipynb>) – Mann-Kendall trend analysis
-- [Ultramarathon running EDA](<Grad School python scripts/ultraEDA.ipynb>)
 
 ---
 
