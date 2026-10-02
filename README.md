@@ -18,8 +18,9 @@ Outside of work, you’ll usually find me road cycling, lifting, or working on D
 
 ### Entrained Droplet Fraction Prediction
 Graduate capstone using neural networks to predict entrained liquid droplet fraction in gas–liquid flow.  
-Topics: multiphase flow, PyTorch, model evaluation, engineering data.  
-Repository and technical summary coming soon.
+A compact PyTorch ANN (8-32-16-1, 833 parameters) predicts entrained droplet fraction in vertical gas-liquid flow, benchmarked against linear regression and TabNet with 5-fold CV and SHAP. The ANN reached R² ≈ 0.90 (RMSE ≈ 0.09) vs. 0.27 for the linear baseline and 0.75 for TabNet, with SHAP rankings consistent with entrainment physics.  
+Topics: multiphase flow, PyTorch, SHAP, TabNet, model evaluation, engineering data.  
+[View the repository](https://github.com/aweier/entrained-droplet-fraction-ann)
 
 ### Commodity Markets Learning Tools
 Interactive tools for learning commodity markets: automated quizzes and a narrative learning game around natural-gas trading, hedging, accounting, and risk controls.  
