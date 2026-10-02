@@ -1,6 +1,6 @@
 # Hi, I'm Alek 👋
 
-I’m an **Upstream Oil & Gas Data Analyst** with a background in environmental science and a master’s degree in data analytics. I use data engineering, analytics, and machine learning to investigate upstream datasets, improve reporting workflows, and support technical and commercial decision-making.
+I’m an **Upstream Oil & Gas Data Analyst** with a background in environmental consulting and regulatory reporting, and a master’s degree in data analytics. I enjoy solving data problems and turning complex technical information into clear, practical insights, using data engineering, analytics, and machine learning to investigate upstream datasets and improve reporting workflows.
 
 Outside of work, you’ll usually find me road cycling, lifting, or working on DIY projects.
 
