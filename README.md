@@ -25,7 +25,7 @@ Topics: multiphase flow, PyTorch, SHAP, TabNet, model evaluation, engineering da
 ### Commodity Markets Learning Tools
 Interactive tools for learning commodity markets: automated quizzes and a narrative learning game around natural-gas trading, hedging, accounting, and risk controls.  
 Topics: FastAPI, Streamlit, SQLite, retrieval-augmented generation.  
-Selected components and docs coming soon.
+[Lake Effect Ledger](https://github.com/aweier/Lake-effect-Ledger) – a Python CLI narrative game covering natural-gas accounting, hedging, liquidity, and evidence across nine playable chapters. Additional components and docs coming soon.
 
 ---
 
